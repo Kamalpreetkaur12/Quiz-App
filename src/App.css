@@ -1,0 +1,49 @@
+.App{
+    text-align: center;
+}
+
+.questions{
+    width: 50%;
+    height: auto;
+    background-color: rgb(201, 200, 200);
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 2px rgb(126, 125, 125) ;
+    padding: 10px;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    background-color: rgb(146, 141, 141);
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px 20px;
+
+}
+
+.text{
+    font-size: 1.5rem;
+    color: rgb(10, 61, 226);
+}
+
+.result{
+    width: 25%;
+    height: auto;
+    background-color: rgb(201, 200, 200);
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 2px rgb(126, 125, 125) ;
+    padding: 10px; 
+}
+
+button{
+    background-color: red;
+    border: none;
+    color: beige;
+    padding: 10px;
+    border-radius: 20px;
+}
